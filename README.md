@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [tokenwatt-verify](https://github.com/tokenwatt/tokenwatt-verify) | CLI that checks whether an LLM API endpoint serves the model it claims by comparing graded answers, input-token counts, refusals and latency against a reference endpoint; includes a monitor mode. | ![GitHub Badge](https://img.shields.io/github/stars/tokenwatt/tokenwatt-verify?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 
